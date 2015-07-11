@@ -3,3 +3,8 @@
 
 # Backups from Emacs
 *~
+
+# Local copies of technical papers
+ref/*
+
+assignments/*
