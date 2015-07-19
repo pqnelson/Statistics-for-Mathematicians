@@ -22,3 +22,11 @@
 - Neil Weiss,
   *Introductory Statistics*.
   Tenth edition, but they're all good.
+
+# Other References
+
+- Donald Knuth,
+  *The Art of Computer Programming, vol II: Seminumerical Methods*.
+  Third ed., Addison-Wesley 1997.
+  (Particularly for his discussion on numerically stable calculations of
+  statistical quantities like the mean and standard deviation.)
