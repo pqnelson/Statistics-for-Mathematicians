@@ -8,3 +8,10 @@
 ref/*
 
 assignments/*
+
+# ignore latex related stuff
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
